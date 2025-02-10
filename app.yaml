@@ -1,1 +1,4 @@
 runtime: python39
+
+env_variables:
+  PIP_NO_CACHE_DIR: "off"
